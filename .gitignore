@@ -1,0 +1,10 @@
+__pycache__/
+.venv/
+.env*
+inputs/
+exports/
+*.mp4
+*.mov
+*.mkv
+*.wav
+*.srt
